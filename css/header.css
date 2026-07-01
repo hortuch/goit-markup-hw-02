@@ -1,0 +1,77 @@
+.logo {
+text-decoration: none;
+font-family: 'Raleway', sans-serif;
+letter-spacing: 0.03em;
+font-weight: 700;
+font-size: 18px;
+line-height: 1.3;
+}
+.web {
+    color: #4D5AE5;  
+}
+.studio {
+    color: #2E2F42;
+}
+.studio:hover {
+    color: #404BBF;
+}
+.studio:active {
+    color: #404BBF;
+}
+    
+#features,
+#team,
+#portfolio {
+    list-style: none;
+    text-decoration: none;
+    font-family: roboto;
+    color: #2E2F42;
+    line-height: 1.5;
+    font-weight: 500;
+    font-size:16px;
+    list-style: none;
+    letter-spacing: 0.02em;
+}
+.features:hover {
+    color: #404BBF;
+}
+.features:focus {
+    color: #404BBF;
+}
+.team:hover {
+    color: #404BBF;
+}
+.team:focus {
+    color: #404BBF;
+}
+.portfolio:hover {
+    color: #404BBF;
+}
+.portfolio:focus {
+    color: #404BBF;
+}
+
+address {
+    font-style: normal;
+    font-weight: 400;
+    font-family: 'Roboto', sans-serif;    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+.email, .telephone {
+    text-decoration: none;
+    color: #434455;
+}
+.email:hover {
+    color: #404BBF;
+}
+.email:focus {
+    color: #404BBF;
+}
+.telephone:hover {
+    color: #404BBF;
+}
+.telephone:focus {
+    color: #404BBF;
+}
