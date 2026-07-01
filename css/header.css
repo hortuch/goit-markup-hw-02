@@ -18,40 +18,40 @@ line-height: 1.3;
 .studio:active {
     color: #404BBF;
 }
-    
-#features,
-#team,
-#portfolio {
-    list-style: none;
+nav a {
     text-decoration: none;
-    font-family: roboto;
+}  
+.features,
+.team,
+.portfolio {
+    list-style: none;
+    font-family: Roboto, sans-serif;
     color: #2E2F42;
     line-height: 1.5;
     font-weight: 500;
-    font-size:16px;
-    list-style: none;
+    font-size: 16px;
     letter-spacing: 0.02em;
 }
-#features:hover {
+.features:hover {
     color: #404BBF;
 }
-#features:focus {
+.features:focus {
     color: #404BBF;
 }
-#team:hover {
+.team:hover {
     color: #404BBF;
 }
-#team:focus {
+.team:focus {
     color: #404BBF;
 }
-#portfolio:hover {
+.portfolio:hover {
     color: #404BBF;
 }
-#portfolio:focus {
+.portfolio:focus {
     color: #404BBF;
 }
 
-address {
+.address {
     font-style: normal;
     font-weight: 400;
     font-family: 'Roboto', sans-serif;    font-size: 16px;
